@@ -1,0 +1,17 @@
+PODS:
+  - DarklyEventSource (1.3.1)
+  - LaunchDarkly (2.1.2):
+    - LaunchDarkly/Core (= 2.1.2)
+  - LaunchDarkly/Core (2.1.2):
+    - DarklyEventSource (~> 1.3.1)
+
+DEPENDENCIES:
+  - LaunchDarkly
+
+SPEC CHECKSUMS:
+  DarklyEventSource: ce31d84740e96ddd3d9cb7804ada109b9983d3ed
+  LaunchDarkly: ada3f013e58cdc81d65876d5c013309f1fbbbb18
+
+PODFILE CHECKSUM: f55839c09d9fd77a201162832a9dc8855d4a540d
+
+COCOAPODS: 1.2.0
